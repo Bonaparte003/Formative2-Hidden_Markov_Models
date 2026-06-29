@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+hmm_activity_recognition_executed.ipynb
+.ipynb_checkpoints/
+report/

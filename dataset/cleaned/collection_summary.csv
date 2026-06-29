@@ -1,0 +1,5 @@
+activity,device,recording_time,sample_rate_hz,duration_s,n_samples,file
+still,iPhone 7 Plus,2026-06-28_17-26-21,100.0,9.99,899,still_full_recording.csv
+standing,iPhone 7 Plus,2026-06-28_17-28-20,100.0,9.99,899,standing_full_recording.csv
+walking,iPhone 7 Plus,2026-06-28_17-27-02,100.0,9.99,899,walking_full_recording.csv
+jumping,iPhone 7 Plus,2026-06-28_17-27-31,100.0,10.0,900,jumping_full_recording.csv
