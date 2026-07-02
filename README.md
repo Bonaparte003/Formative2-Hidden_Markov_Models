@@ -2,7 +2,8 @@
 
 Infer human activity states (**still**, **standing**, **walking**, **jumping**) from smartphone accelerometer and gyroscope signals using a **Gaussian Hidden Markov Model (HMM)** implemented in Python.
 
-**Author:** UTERAMAHORO Avellin BOnaparte
+**Author:** UTERAMAHORO Avellin Bonaparte
+
 **Device:** iPhone 7 Plus · Sensor Logger v1.60.1  
 **Sampling rate:** 100 Hz (10 ms interval)
 
@@ -151,11 +152,13 @@ The pipeline auto-discovers folders matching `still-*`, `standing-*`, `walking-*
 
 | Metric | Value |
 |--------|-------|
-| Total windows | 65 (16–17 per activity) |
-| Training windows | 52 |
-| Test windows | 13 |
-| Overall test accuracy | 100 % |
-| Baum–Welch convergence | Iteration 4 (log-lik < 0.001) |
+| Recording sessions | 23 (19 train, 4 unseen) |
+| Labelled window CSVs | **380** |
+| Training windows | 314 |
+| Unseen test windows | 66 (4 Jul 1 sessions) |
+| Overall test accuracy | **95.5 %** |
+
+Unseen test files: `still5`, `standing5`, `walking5`, `jumping5` (2026-07-01).
 
 ---
 
@@ -168,7 +171,7 @@ The pipeline auto-discovers folders matching `still-*`, `standing-*`, `walking-*
 | `figures/03_transition_matrix.png` | Baum–Welch convergence + transition heatmap |
 | `figures/04_emission_means.png` | Emission means per hidden state |
 | `figures/05_decoded_sequence.png` | True vs Viterbi-decoded sequence |
-| `figures/06_confusion_matrix.png` | Confusion matrix on held-out windows |
+| `figures/06_confusion_matrix.png` | Confusion matrix on unseen Jul 1 sessions |
 
 ---
 

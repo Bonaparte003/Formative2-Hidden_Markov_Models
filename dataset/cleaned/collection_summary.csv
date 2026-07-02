@@ -1,5 +1,24 @@
-activity,device,recording_time,sample_rate_hz,duration_s,n_samples,file
-still,iPhone 7 Plus,2026-06-28_17-26-21,100.0,9.99,899,still_full_recording.csv
-standing,iPhone 7 Plus,2026-06-28_17-28-20,100.0,9.99,899,standing_full_recording.csv
-walking,iPhone 7 Plus,2026-06-28_17-27-02,100.0,9.99,899,walking_full_recording.csv
-jumping,iPhone 7 Plus,2026-06-28_17-27-31,100.0,10.0,900,jumping_full_recording.csv
+activity,session,device,sample_rate_hz,duration_s,n_samples,split,file
+jumping,jumping-2026-06-28_17-27-31,iPhone 7 Plus,100.0,10.0,900,train,jumping-2026-06-28_17-27-31.csv
+jumping,jumping2-2026-06-30_22-31-45,iPhone 7 Plus,100.0,10.0,900,train,jumping2-2026-06-30_22-31-45.csv
+jumping,jumping3-2026-06-30_22-34-05,iPhone 7 Plus,100.0,10.0,900,train,jumping3-2026-06-30_22-34-05.csv
+jumping,jumping4-2026-07-01_06-52-05,iPhone 7 Plus,100.0,10.0,900,train,jumping4-2026-07-01_06-52-05.csv
+jumping,jumping5-2026-07-01_06-54-22,iPhone 7 Plus,100.0,9.99,899,unseen,jumping5-2026-07-01_06-54-22.csv
+standing,standing-2026-06-28_17-28-20,iPhone 7 Plus,100.0,9.99,899,train,standing-2026-06-28_17-28-20.csv
+standing,standing1-2026-06-30_22-26-53,iPhone 7 Plus,100.0,9.99,899,train,standing1-2026-06-30_22-26-53.csv
+standing,standing2-2026-06-30_22-28-44,iPhone 7 Plus,100.0,9.99,899,train,standing2-2026-06-30_22-28-44.csv
+standing,standing3-2026-06-30_22-33-15,iPhone 7 Plus,100.0,9.99,899,train,standing3-2026-06-30_22-33-15.csv
+standing,standing4-2026-07-01_06-52-43,iPhone 7 Plus,100.0,10.0,900,train,standing4-2026-07-01_06-52-43.csv
+standing,standing5-2026-07-01_06-55-37,iPhone 7 Plus,100.0,10.0,900,unseen,standing5-2026-07-01_06-55-37.csv
+still,still-2026-06-28_17-26-21,iPhone 7 Plus,100.0,9.99,899,train,still-2026-06-28_17-26-21.csv
+still,still1-2026-06-30_22-26-08,iPhone 7 Plus,100.0,9.99,899,train,still1-2026-06-30_22-26-08.csv
+still,still2-2026-06-30_22-28-20,iPhone 7 Plus,100.0,10.0,900,train,still2-2026-06-30_22-28-20.csv
+still,still3-2026-06-30_22-32-49,iPhone 7 Plus,100.0,10.0,900,train,still3-2026-06-30_22-32-49.csv
+still,still4-2026-07-01_06-53-24,iPhone 7 Plus,100.0,10.0,900,train,still4-2026-07-01_06-53-24.csv
+still,still5-2026-07-01_06-56-09,iPhone 7 Plus,100.0,9.99,899,unseen,still5-2026-07-01_06-56-09.csv
+walking,walking-2026-06-28_17-27-02,iPhone 7 Plus,100.0,9.99,899,train,walking-2026-06-28_17-27-02.csv
+walking,walking1-2026-06-30_22-27-21,iPhone 7 Plus,100.0,10.0,900,train,walking1-2026-06-30_22-27-21.csv
+walking,walking2-2026-06-30_22-31-23,iPhone 7 Plus,100.0,9.99,899,train,walking2-2026-06-30_22-31-23.csv
+walking,walking3-2026-06-30_22-33-39,iPhone 7 Plus,100.0,9.99,899,train,walking3-2026-06-30_22-33-39.csv
+walking,walking4-2026-06-30_22-34-38,iPhone 7 Plus,100.0,10.0,900,train,walking4-2026-06-30_22-34-38.csv
+walking,walking5-2026-07-01_06-53-52,iPhone 7 Plus,100.0,9.99,900,unseen,walking5-2026-07-01_06-53-52.csv
