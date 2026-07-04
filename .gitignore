@@ -4,5 +4,6 @@ __pycache__/
 .DS_Store
 hmm_activity_recognition_executed.ipynb
 .ipynb_checkpoints/
+scripts/__pycache__/
+scripts/generate_report_pdf.py
 report/
-scripts/

@@ -1,4 +1,28 @@
 activity,session,device,sample_rate_hz,duration_s,n_samples,split,file
+jumping,jumping10-2026-07-04_08-20-13,SM-G970U1,100.0,10.0,900,train,jumping10-2026-07-04_08-20-13.csv
+jumping,jumping11-2026-07-04_08-24-08,SM-G970U1,100.0,9.99,899,train,jumping11-2026-07-04_08-24-08.csv
+jumping,jumping6-2026-07-04_08-00-40,SM-G955U,100.0,9.99,900,train,jumping6-2026-07-04_08-00-40.csv
+jumping,jumping7-2026-07-04_08-02-39,SM-G955U,100.0,10.0,900,train,jumping7-2026-07-04_08-02-39.csv
+jumping,jumping8-2026-07-04_08-05-33,SM-G955U,100.0,10.0,900,train,jumping8-2026-07-04_08-05-33.csv
+jumping,jumping9-2026-07-04_08-17-51,SM-G970U1,100.0,10.0,900,train,jumping9-2026-07-04_08-17-51.csv
+standing,standing10-2026-07-04_08-18-58,SM-G970U1,100.0,10.0,900,train,standing10-2026-07-04_08-18-58.csv
+standing,standing11-2026-07-04_08-21-14,SM-G970U1,100.0,9.99,899,train,standing11-2026-07-04_08-21-14.csv
+standing,standing6-2026-07-04_07-59-38,SM-G955U,100.0,9.99,899,train,standing6-2026-07-04_07-59-38.csv
+standing,standing7-2026-07-04_08-02-01,SM-G955U,100.0,9.99,900,train,standing7-2026-07-04_08-02-01.csv
+standing,standing8-2026-07-04_08-05-06,SM-G955U,100.0,10.0,899,train,standing8-2026-07-04_08-05-06.csv
+standing,standing9-2026-07-04_08-18-13,SM-G970U1,100.0,9.99,899,train,standing9-2026-07-04_08-18-13.csv
+still,still10-2026-07-04_08-30-34,SM-G970U1,100.0,10.0,900,train,still10-2026-07-04_08-30-34.csv
+still,still11-2026-07-04_08-20-44,SM-G970U1,100.0,9.99,899,train,still11-2026-07-04_08-20-44.csv
+still,still6-2026-07-04_07-59-07,SM-G955U,100.0,9.99,900,train,still6-2026-07-04_07-59-07.csv
+still,still7-2026-07-04_08-01-12,SM-G955U,100.0,10.0,900,train,still7-2026-07-04_08-01-12.csv
+still,still8-2026-07-04_08-03-36,SM-G955U,100.0,10.0,900,train,still8-2026-07-04_08-03-36.csv
+still,still9-2026-07-04_08-17-26,SM-G970U1,100.0,9.99,899,train,still9-2026-07-04_08-17-26.csv
+walking,walking10-2026-07-04_08-31-06,SM-G970U1,100.0,10.0,900,train,walking10-2026-07-04_08-31-06.csv
+walking,walking11-2026-07-04_08-23-45,SM-G970U1,100.0,9.99,899,train,walking11-2026-07-04_08-23-45.csv
+walking,walking6-2026-07-04_08-00-07,SM-G955U,100.0,9.99,900,train,walking6-2026-07-04_08-00-07.csv
+walking,walking7-2026-07-04_08-01-35,SM-G955U,100.0,10.0,900,train,walking7-2026-07-04_08-01-35.csv
+walking,walking8-2026-07-04_08-03-07,SM-G955U,100.0,9.99,899,train,walking8-2026-07-04_08-03-07.csv
+walking,walking9-2026-07-04_08-17-00,SM-G970U1,100.0,9.99,900,train,walking9-2026-07-04_08-17-00.csv
 jumping,jumping-2026-06-28_17-27-31,iPhone 7 Plus,100.0,10.0,900,train,jumping-2026-06-28_17-27-31.csv
 jumping,jumping2-2026-06-30_22-31-45,iPhone 7 Plus,100.0,10.0,900,train,jumping2-2026-06-30_22-31-45.csv
 jumping,jumping3-2026-06-30_22-34-05,iPhone 7 Plus,100.0,10.0,900,train,jumping3-2026-06-30_22-34-05.csv
