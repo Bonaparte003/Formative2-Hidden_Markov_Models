@@ -1,0 +1,29 @@
+{
+  "overall_accuracy": 0.8333333333333334,
+  "per_class": [
+    {
+      "State (Activity)": "still",
+      "Number of Samples": 16,
+      "Sensitivity": 1.0,
+      "Specificity": 0.82
+    },
+    {
+      "State (Activity)": "standing",
+      "Number of Samples": 17,
+      "Sensitivity": 0.471,
+      "Specificity": 1.0
+    },
+    {
+      "State (Activity)": "walking",
+      "Number of Samples": 17,
+      "Sensitivity": 1.0,
+      "Specificity": 0.959
+    },
+    {
+      "State (Activity)": "jumping",
+      "Number of Samples": 16,
+      "Sensitivity": 0.875,
+      "Specificity": 1.0
+    }
+  ]
+}
